@@ -38,4 +38,4 @@ The system improves user awareness of sustainable choices by delivering quick an
 - Add multilingual support
 
 ## Author
-Your Name
+Garvit Raj
