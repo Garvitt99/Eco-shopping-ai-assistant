@@ -24,6 +24,13 @@ The goal of this project is to promote sustainable consumption by helping users 
 - Email automation
 - Decision-based response handling
 
+## Workflow Preview
+
+![Workflow 1](C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\workflow1.png)
+![Workflow 2](C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\email-automation.png)
+![Workflow 3](C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\Trigger.png)
+![Workflow 4](C:\Users\Garvit\Downloads\Sustainable-Purchasing-A"C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\decision-flow.png)
+
 ## Sample Use Cases
 - Suggest eco-friendly alternatives to plastic products
 - Provide recycling advice for household waste
