@@ -24,9 +24,6 @@ The goal of this project is to promote sustainable consumption by helping users 
 - Email automation
 - Decision-based response handling
 
-## Workflow Architecture
-(Add workflow images here)
-
 ## Sample Use Cases
 - Suggest eco-friendly alternatives to plastic products
 - Provide recycling advice for household waste
