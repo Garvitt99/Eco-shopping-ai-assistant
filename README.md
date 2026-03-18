@@ -26,10 +26,7 @@ The goal of this project is to promote sustainable consumption by helping users 
 
 ## Workflow Preview
 
-![Workflow 1](C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\workflow1.png)
-![Workflow 2](C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\email-automation.png)
-![Workflow 3](C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\Trigger.png)
-![Workflow 4](C:\Users\Garvit\Downloads\Sustainable-Purchasing-A"C:\Users\Garvit\Downloads\Sustainable-Purchasing-AI-Bot\decision-flow.png)
+<img width="1920" height="1080" alt="one" src="https://github.com/user-attachments/assets/92195e29-db7f-499b-904e-971f72f053dc" />
 
 ## Sample Use Cases
 - Suggest eco-friendly alternatives to plastic products
